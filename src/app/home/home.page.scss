@@ -1,1 +1,144 @@
 
+//button
+
+ button.plusIcon{
+    background: #f8dc0b !important;
+    right: 10px !important;
+    padding:5px !important;
+    border-radius: 7px !important;
+    margin-right: 10px;
+}
+
+button.searchIcon{
+    
+    right: 10px !important;
+    padding:5px !important;
+    border-radius: 7px !important;
+}
+
+
+    .item-inner{
+        height: 48px;
+        border-bottom-color: transparent !important;
+        box-shadow: none !important;
+
+        .button-inner{
+          color:black;
+        }
+
+    .ion-item-custom{
+        padding-left: 0px;
+        background-color:none !important;
+
+       
+
+
+    }
+
+    ion-content .multiple-choice-dropdown{
+        border: 1px solid !important;
+        border-radius: 7px !important;
+        }
+    }
+
+
+
+    .button-inner-div {
+
+    
+
+       border: 1px solid #ddd;
+       border-radius: 3px;
+
+       .button-inner-div-div{
+            padding:2px;
+       }
+    }
+
+    .query{
+        height: 25%;padding: 15px;
+    }
+
+    .result{
+        background: #f2f2f2;
+        //height: 60%;
+         min-height: 74.5%;
+        padding: 30px;
+
+        .product-item{
+            background:#fff;
+            border-radius: 10px;
+
+            .query-word-title{
+                font-size:12px;
+                font-weight: bold;
+                background: #f8dc0b;
+                border-radius: 10px;
+                -webkit-box-shadow: 0 3rem 5rem -2rem rgba(0, 0, 0, 0.2);
+                box-shadow: 0 3rem 5rem -2rem rgba(0, 0, 0, 0.2);
+                padding:10px;
+      
+                .query-word-title-amount{
+                  float: right;
+                }
+              }
+        }
+
+      
+
+        .query-word-foundItems{
+          padding: 10px;
+          padding-top: 0px;
+          position: relative;
+        }
+
+        .result-title{
+            text-transform: uppercase;
+            font-size: 10px;
+            font-weight: bold;
+            color:rgb(161, 161, 161)
+        }
+
+        .result-found-name{
+
+            font-size: 14px;
+            font-weight: bold;
+            color:rgb(94, 94, 94)
+        }
+
+        .result-found-default{
+
+            font-size: 14px;
+
+            color:rgb(94, 94, 94)
+        }
+
+        .grid{
+            padding:10px;
+            background: #fefefe;
+            border-radius: 0px 0px 10px 10px;
+            box-shadow: 0 3rem 5rem -2rem rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+    }
+/*
+    ion-content div{
+        display:inline-block;
+        position:relative;
+      }
+
+      button{
+        position:absolute;
+        bottom:10px;
+        right:10px;
+      }
+
+      textarea{
+        display:block;
+      }
+
+*/
+
+
+
