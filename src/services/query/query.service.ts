@@ -1,12 +1,16 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { SharedService } from '../shared/shared.service';
 
 @Injectable({
   providedIn: 'root'
 })
 export class QueryService {
 
-  constructor(public http: HttpClient) {
+  constructor(
+    public http: HttpClient,
+    public shared: SharedService
+    ) {
     console.log('Hello QueryProvider Provider');
   }
 
@@ -25,4 +29,6 @@ export class QueryService {
         });
     })
   }
+
+
 }

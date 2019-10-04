@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205873441313",
+    "firebase_url": "https://getitcheaper.firebaseio.com",
+    "project_id": "getitcheaper",
+    "storage_bucket": "getitcheaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205873441313:android:c749a0ea63bb1ef8171160",
+        "android_client_info": {
+          "package_name": "com.lev123.getitcheaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205873441313-sn7m3ev5ji9of4b37rlpb8apqras045l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5NuCXrItJqXRvdQDI3e2I7GVealUZVNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205873441313-sn7m3ev5ji9of4b37rlpb8apqras045l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
